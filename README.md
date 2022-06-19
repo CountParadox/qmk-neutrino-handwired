@@ -1,7 +1,5 @@
 # qmk-neutrino-handwired
 
-![motousb](imgur.com image replace me!)
-
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Lewys Martin](https://github.com/CountParadox)
