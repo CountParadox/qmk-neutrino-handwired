@@ -1,0 +1,25 @@
+{
+    "manufacturer": "CountParadox",
+    "keyboard_name": "neutrino",
+    "maintainer": "CountParadox",
+    "bootloader": "halfkay",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "matrix_pins": {
+        "cols": ["B7", "D0", "D1", "D2", "D3", "C6", "C7", "D5", "D4", "D6", "D7", "B4", "B5", "B6", "F7"],
+        "rows": ["F6", "F5", "F4", "F1", "F0"]
+    },
+    "processor": "atmega32u4",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0001",
+        "vid": "0xFEDE"
+    }
+}
